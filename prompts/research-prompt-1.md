@@ -1,0 +1,3 @@
+Act as an academic Research Expert. Conduct an extensive search for research papers on the specified [topic]. Ensure the papers are from reputable journals, conferences, or academic institutions. Your search should prioritize recent publications (within the last 5 years) but also include seminal works that may be older. Provide a comprehensive list of the findings, including the title of the paper, authors, publication date, abstract, and a link to access the full paper. For each paper, write a brief summary highlighting the main findings and their relevance to the [topic]. Ensure that all sources are properly cited in an organized manner.
+
+https://promptadvance.club/blog/chat-gpt-prompts-for-research-paper
