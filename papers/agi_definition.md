@@ -29,7 +29,6 @@ Define AGI in a concrete, testable way and provide a framework to *measure* prog
 * **Fix long-term memory:** Authors highlight **long-term memory** as the critical bottleneck; reducing reliance on giant context windows and building persistent memory should be a priority. ([newsletter.safe.ai][2])
 * **Broaden & refine evaluation:** Continue refining domain coverage and test adaptations as models evolve, keeping the metric stable while improving fidelity to general cognition. ([agidefinition.ai][1])
 
-If you’d like, I can compress this into a one-slide briefing or a 150-word executive note for email.
 
 [1]: https://www.agidefinition.ai/ "A Definition of AGI"
 [2]: https://newsletter.safe.ai/p/ai-safety-newsletter-63-new-agi-definition?action=share&utm_content=share&utm_medium=email&utm_source=substack "AI Safety Newsletter #64: New AGI Definition and Senate Bill Would Establish Liability for AI Harms"
